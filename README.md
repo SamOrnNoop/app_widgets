@@ -3,6 +3,8 @@
 A new Flutter project.
 
 ## Getting Started
+flutter version 3.0.2
+dart version 2.17.3
 
 This project is a starting point for a Flutter application.
 
